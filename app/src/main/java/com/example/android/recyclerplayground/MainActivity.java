@@ -35,11 +35,8 @@ public class MainActivity extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         //This is good
 //use saved Instance state to manage state.
-<<<<<<< HEAD
-//Is it good?
-=======
-//TODO: 
->>>>>>> e98692874165684e594cefb8a37fbabb4e4e64b3
+//Is it good? ok
+
         setContentView(R.layout.activity_main);
 
         mNavigationDrawerFragment = (NavigationDrawerFragment)
