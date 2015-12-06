@@ -33,8 +33,13 @@ public class MainActivity extends AppCompatActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //This is good
 //use saved Instance state to manage state.
+<<<<<<< HEAD
 //Is it good?
+=======
+//TODO: 
+>>>>>>> e98692874165684e594cefb8a37fbabb4e4e64b3
         setContentView(R.layout.activity_main);
 
         mNavigationDrawerFragment = (NavigationDrawerFragment)
